@@ -9,9 +9,9 @@ GitHub: @renata-and
 Beginner Front-end&JavaScript developer. I'm 32 old. I started studying in 2022. I am self-organized, diligent, ready to learn new things.
 
 ## Skills
-*HTML&CSS
-*Git
-*Figma
+* HTML&CSS
+* Git
+* Figma
 
 ## Education
 Economist
