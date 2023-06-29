@@ -13,6 +13,18 @@ Beginner Front-end&JavaScript developer. I'm 32 old. I started studying in 2022.
 * Git
 * Figma
 
+## Code Examples
+
+## Experience
+
+### Projects
+* https://renata-and.github.io/rsschool-cv/cv
+
 ## Education
+* Ufa State Aviation Technical University (USATU)
 Economist
-Ufa State Aviation Technical University (USATU)
+
+## Languages
+* English - Beginner
+* Russian - Native
+
